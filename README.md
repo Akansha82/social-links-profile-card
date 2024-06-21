@@ -14,7 +14,7 @@ This is a solution to the [Social links profile card challenge on Frontend Mento
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Overview
 
@@ -86,3 +86,7 @@ In future projects, I plan to:
 - [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - Comprehensive documentation and tutorials.
 - [CSS-Tricks](https://css-tricks.com/) - A great resource for learning about Flexbox and other CSS techniques.
 - [Frontend Mentor](https://www.frontendmentor.io/challenges) - Provides real-world coding challenges.
+
+
+## Author
+- Frontend Mentor - [@Akansha82](https://www.frontendmentor.io/profile/Akansha82)
